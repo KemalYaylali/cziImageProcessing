@@ -1,4 +1,4 @@
-# Cellcraft® Ltd. CZI Image Processing for Adipose and Nuclei Count: A Comprehensive Guide
+# CZI Image Processing for Adipose and Nuclei Count: A Comprehensive Guide
 
 ## Table of Contents
 1. Introduction
